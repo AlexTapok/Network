@@ -1,0 +1,12 @@
+﻿<Window x:Class="ClientDouble2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Closed="Window_Closed_1"
+        Title="MainWindow" Height="357.028" Width="537.651">
+    <Grid>
+
+         <TextBox Name="tbxStatus" Margin="10,32,10,60"/>
+        <Button Name="btnStart" Height="40" Width="100" Click="btnStart_Click_1" Content="start" Margin="211,277,219,10"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+Properties has been changed 24.12.2014 19:52:18
+
+New values:
+Money: 1;
+Name: Noname;
+Percent: 0
+Properties has been changed 24.12.2014 19:52:19
+
+Money: 1;
+Name: ';
+Percent: 0
+Properties has been changed 24.12.2014 19:52:20
+
+New values:
+Money: 1;
+Name: ';
+Percent: 1

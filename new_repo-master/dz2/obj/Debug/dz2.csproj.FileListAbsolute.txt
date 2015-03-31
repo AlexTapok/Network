@@ -1,0 +1,13 @@
+C:\Users\Serhiy\documents\visual studio 2012\Projects\ProcessManipulation\dz2\bin\Debug\dz2.exe.config
+C:\Users\Serhiy\documents\visual studio 2012\Projects\ProcessManipulation\dz2\bin\Debug\dz2.exe
+C:\Users\Serhiy\documents\visual studio 2012\Projects\ProcessManipulation\dz2\bin\Debug\dz2.pdb
+C:\Users\Serhiy\documents\visual studio 2012\Projects\ProcessManipulation\dz2\obj\Debug\dz2.csprojResolveAssemblyReference.cache
+C:\Users\Serhiy\documents\visual studio 2012\Projects\ProcessManipulation\dz2\obj\Debug\dz2.Form1.resources
+C:\Users\Serhiy\documents\visual studio 2012\Projects\ProcessManipulation\dz2\obj\Debug\dz2.Properties.Resources.resources
+C:\Users\Serhiy\documents\visual studio 2012\Projects\ProcessManipulation\dz2\obj\Debug\dz2.csproj.GenerateResource.Cache
+C:\Users\Serhiy\documents\visual studio 2012\Projects\ProcessManipulation\dz2\obj\Debug\dz2.exe
+C:\Users\Serhiy\documents\visual studio 2012\Projects\ProcessManipulation\dz2\obj\Debug\dz2.pdb
+D:\Users7\Admin\Downloads\new_repo-master\dz2\bin\Debug\dz2.exe.config
+D:\Users7\Admin\Downloads\new_repo-master\dz2\obj\Debug\dz2.Form1.resources
+D:\Users7\Admin\Downloads\new_repo-master\dz2\obj\Debug\dz2.Properties.Resources.resources
+D:\Users7\Admin\Downloads\new_repo-master\dz2\obj\Debug\dz2.csproj.GenerateResource.Cache
